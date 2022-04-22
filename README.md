@@ -1,1 +1,1 @@
-# bariqcoder-bot
+# Telegram-bot
